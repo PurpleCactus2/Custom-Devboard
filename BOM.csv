@@ -2,4 +2,5 @@ Item,Qty,Supplier,Cost/item,Total Cost,link
 RP2040,1,LCSC,$1.10,$1.10,https://www.lcsc.com/product-detail/C2040.html
 MCP1700,1,LCSC,$0.44,$0.44,https://www.lcsc.com/product-detail/C39051.html
 Crystal,1,LCSC,$0.46,$0.46,https://www.lcsc.com/product-detail/C9002.html
+Flash memory,1,LCSC,$1.92,$1.92,https://www.lcsc.com/product-detail/C2456208.html
 Estimated total shipping,1,,,$0.00,
