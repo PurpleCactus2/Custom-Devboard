@@ -59,19 +59,17 @@ Final render:<br>
 |  | USB-C Port | 1 | LCSC | $0.87 | $0.87 | [LCSC](https://www.lcsc.com/product-detail/C165948.html) |
 |  | Passive Components | 1 | LCSC | $1.57 | $1.57 | [100nF](https://www.lcsc.com/product-detail/C1525.html) [1uF](https://www.lcsc.com/product-detail/C2803380.html) [10uF](https://www.lcsc.com/product-detail/C1691.html) [33pF](https://www.lcsc.com/product-detail/C107005.html) [Diode](https://www.lcsc.com/product-detail/C49231016.html) [5.1KΩ](https://www.lcsc.com/product-detail/C2906874.html) [27Ω](https://www.lcsc.com/product-detail/C2909343.html) [1KΩ](https://www.lcsc.com/product-detail/C2906899.html) [10KΩ](https://www.lcsc.com/product-detail/C2906861.html) |
 |  | PCB | 1 | JLCPCB | $4.10 | $4.10 | [LCSC](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWiddth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010) |
-|  | Estimated total shipping |  |  |  | $17.57 |  |
-|  | Total |  |  |  | $28.54 |  |
+|  | Estimated total shipping |  |  |  | $18.94 |  |
+|  | Total |  |  |  | $29.91 |  |
 
 *I am willing to cover any extra charges that might apply*
 
 ### Cart Screenshots
 
 LCSC Order:<br>
-<img width="1408" height="536" alt="JLCPCB" src="https://github.com/user-attachments/assets/31df39d4-ecd4-4733-9823-5733eb9a94e2" /><br>
-<img width="1443" height="603" alt="LCSC1" src="https://github.com/user-attachments/assets/780488de-f5ee-42cd-8ff1-e304ed19f055" /><br>
-<img width="1446" height="713" alt="LCSC2" src="https://github.com/user-attachments/assets/88faa1c1-d3af-4e28-863d-e8168a55c30d" /><br>
-<img width="1413" height="726" alt="LCSC3" src="https://github.com/user-attachments/assets/04207569-468b-4950-ab6d-43eba2a1491a" /><br>
-<img width="1438" height="724" alt="LCSC4" src="https://github.com/user-attachments/assets/8ee3da58-a75e-44e3-847d-108ea88edb3d" /><br>
+<img width="1425" height="620" alt="LCSC1" src="https://github.com/user-attachments/assets/deec52c7-d3ad-4c22-bebd-59f39d7655ad" /><br>
+<img width="1516" height="761" alt="LCSC2" src="https://github.com/user-attachments/assets/240d836b-e0ce-4af7-a493-cc947bb5a860" /><br>
+<img width="1447" height="809" alt="LCSC3" src="https://github.com/user-attachments/assets/c666cfe8-79e7-47a1-8ddc-80e71f5f3b54" /><br>
 
 JLCPCB Order:<br>
 <img width="1408" height="536" alt="JLCPCB" src="https://github.com/user-attachments/assets/3fdba74c-1e34-4f7e-a3e6-1461df3d135e" />
